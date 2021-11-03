@@ -1,0 +1,22 @@
+{
+  "name": "m3-w2-d1-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq170829/m3-w2-d1-homework.git"
+  },
+  "author": "Qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq170829/m3-w2-d1-homework/issues"
+  },
+  "homepage": "https://github.com/zq170829/m3-w2-d1-homework#readme",
+  "dependencies": {
+    "mongo": "^0.1.0"
+  }
+}
